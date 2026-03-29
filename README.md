@@ -198,9 +198,10 @@ Brand-Sales-Management-System/
 
 | Name | SAP ID | Program | Email |
 |------|--------|---------|-------|
+| **Zaneera Bint E Zahid** | **65326** | **BS SE** | **ZBZ@outlook.com** |
 | Malaika | 63744 | BS SE | malaikaf887@gmail.com |
 | Laiba Fatima | 64885 | BS SE | Laibafatima252005@gmail.com |
-| **Zaneera Bint E Zahid** | **65326** | **BS SE** | **ZBZ@outlook.com** |
+
 
 **Institution:** Riphah International University  
 **Course:** Programming Fundamentals — Fall 2024
