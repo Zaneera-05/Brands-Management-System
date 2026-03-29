@@ -11,7 +11,6 @@
 - [Screenshots](#screenshots)
 - [System Architecture](#system-architecture)
 - [Technical Details](#technical-details)
-- [C++ Concepts & Language Features Used](#c-concepts--language-features-used)
 - [Getting Started](#getting-started)
 - [Default Login Credentials](#default-login-credentials)
 - [Usage Guide](#usage-guide)
